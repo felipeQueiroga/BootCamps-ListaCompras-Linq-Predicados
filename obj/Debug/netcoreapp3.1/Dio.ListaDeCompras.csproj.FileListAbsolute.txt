@@ -1,0 +1,13 @@
+C:\Users\Fabiano\Documents\Projetos C#\Dio.ListaDeCompras\bin\Debug\netcoreapp3.1\Dio.ListaDeCompras.exe
+C:\Users\Fabiano\Documents\Projetos C#\Dio.ListaDeCompras\bin\Debug\netcoreapp3.1\Dio.ListaDeCompras.deps.json
+C:\Users\Fabiano\Documents\Projetos C#\Dio.ListaDeCompras\bin\Debug\netcoreapp3.1\Dio.ListaDeCompras.runtimeconfig.json
+C:\Users\Fabiano\Documents\Projetos C#\Dio.ListaDeCompras\bin\Debug\netcoreapp3.1\Dio.ListaDeCompras.runtimeconfig.dev.json
+C:\Users\Fabiano\Documents\Projetos C#\Dio.ListaDeCompras\bin\Debug\netcoreapp3.1\Dio.ListaDeCompras.dll
+C:\Users\Fabiano\Documents\Projetos C#\Dio.ListaDeCompras\bin\Debug\netcoreapp3.1\Dio.ListaDeCompras.pdb
+C:\Users\Fabiano\Documents\Projetos C#\Dio.ListaDeCompras\obj\Debug\netcoreapp3.1\Dio.ListaDeCompras.csprojAssemblyReference.cache
+C:\Users\Fabiano\Documents\Projetos C#\Dio.ListaDeCompras\obj\Debug\netcoreapp3.1\Dio.ListaDeCompras.AssemblyInfoInputs.cache
+C:\Users\Fabiano\Documents\Projetos C#\Dio.ListaDeCompras\obj\Debug\netcoreapp3.1\Dio.ListaDeCompras.AssemblyInfo.cs
+C:\Users\Fabiano\Documents\Projetos C#\Dio.ListaDeCompras\obj\Debug\netcoreapp3.1\Dio.ListaDeCompras.csproj.CoreCompileInputs.cache
+C:\Users\Fabiano\Documents\Projetos C#\Dio.ListaDeCompras\obj\Debug\netcoreapp3.1\Dio.ListaDeCompras.dll
+C:\Users\Fabiano\Documents\Projetos C#\Dio.ListaDeCompras\obj\Debug\netcoreapp3.1\Dio.ListaDeCompras.pdb
+C:\Users\Fabiano\Documents\Projetos C#\Dio.ListaDeCompras\obj\Debug\netcoreapp3.1\Dio.ListaDeCompras.genruntimeconfig.cache
